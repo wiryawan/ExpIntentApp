@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpIntentApp</string>
+    <string name="i_am">I am</string>
+    <string name="who_are_you">Who Are You?</string>
+    <string name="this_is_second_activity">This is Second Activity!</string>
+    <string name="send">SEND</string>
+</resources>
